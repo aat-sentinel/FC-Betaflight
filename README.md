@@ -1,7 +1,7 @@
 # Betaflight versions precompiled for Sentinel
 
-A pull request for the Sentinal AAT will shortly submitted into betaflight
-Until that version is release, the Betaflight FC's can be flashed manually using teh following process  
+A pull request for the Sentinal AAT will shortly submitted into betaflight.
+Until that version is release, the Betaflight FC's can be flashed manually using the following process  
 
 ## Betaflight flash process (when using same version as existing board)
 * Backup / dump CLI contents of your existing board into a file
