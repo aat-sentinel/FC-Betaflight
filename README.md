@@ -1,7 +1,17 @@
+
+# Acknowledgement
+All work completed by BF developers past present and future is fully acknowledged and supported. This repository of binaries is hosted until such time that Betaflight (hopefully) supports it directly.
+
+Source code here:
+https://github.com/ShikOfTheRa/betaflight/tree/Sentinel-antenna-tracker-support
+Purchasers of Sentinel product may request source code directly for a specific version if required. 
+
+
 # Betaflight versions precompiled for Sentinel
 
 A pull request for the Sentinal AAT will shortly submitted into betaflight.
 Until that version is release, the Betaflight FC's can be flashed manually using the following process  
+
 
 ## Betaflight flash process (when using same version as existing board)
 * Backup / dump CLI contents of your existing board into a file
